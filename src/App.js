@@ -1,18 +1,16 @@
 import React, { Component } from "react";
-import Navbar from "./Navbar";
-import Header from "./Header";
-import Footer from "./Footer";
-import Posts from "./Posts";
-import OlderPost from "./OlderPost";
+import Navbar from "./Blog/Navbar";
+import Header from "./Blog/Header";
+import Footer from "./Blog/Footer";
+import Posts from "./Blog/Posts";
+import OlderPost from "./Blog/OlderPost";
 
 class App extends Component {
   render() {
     return (
       <div>
         <Navbar />
-
         <Header />
-
         <div className="container">
           <div className="row">
             <div className="col-lg-8 col-md-10 mx-auto">
@@ -22,9 +20,7 @@ class App extends Component {
             </div>
           </div>
         </div>
-
         <hr />
-
         <Footer />
       </div>
     );
