@@ -1,3 +1,3 @@
-### Timer App
+### Course Sale
 
-[http://damp-ant.surge.sh/](http://damp-ant.surge.sh/)
+[gorgeous-pigs.surge.sh](gorgeous-pigs.surge.sh)
