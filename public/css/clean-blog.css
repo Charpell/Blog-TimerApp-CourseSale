@@ -418,3 +418,8 @@ footer .copyright {
   font-size: 16px;
   padding: 25px 35px;
 }
+
+
+header.profileImage {
+  background: url(../img/home-bg.jpg)
+}
